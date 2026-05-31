@@ -88,25 +88,6 @@ If you're building an NFT trading agent or analytics tool, the table format abov
 
 ---
 
-## Contributing
-
-To add a collection, open a PR with the following data:
-
-- Contract address
-- Chain
-- Supply
-- Launch date
-- Current floor
-- Unique owner count and percentage
-- Listed supply percentage
-- Lifetime volume
-- Trait breakdown
-- Analytical rationale (why is it undervalued?)
-
-Collections added purely for promotion without data backing will be closed.
-
----
-
 ## Disclaimer
 
 This index is for research and informational purposes only. Nothing here is financial advice. NFTs are illiquid, speculative assets. Do your own research before making any purchase.
