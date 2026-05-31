@@ -70,8 +70,6 @@ Outfit has the highest variance (46 variants), making it the primary rarity driv
 **Risk factors:**
 
 - Low current daily volume (liquidity risk)
-- Ethereum mainnet gas fees compress margins at sub-0.01 ETH prices
-- No known active roadmap or team activity at time of writing
 
 ---
 
